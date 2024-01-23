@@ -1,4 +1,4 @@
-# WORKSHOP-Matrixes---Connect-Four-game
+# WORKSHOP-Matrices---Connect-Four-game
 This repository is specifically designed to showcase a practical application of matrixes.
 
 
