@@ -4,9 +4,8 @@ This repository is specifically designed to showcase a practical application of 
 
 Game rules:
 
+Only two players can play simultaneously.
+The boundaries of the matrix are fixed (rows - 6; cols - 7).
 A player wins when he/she connects four slots.
 The winning connected slots must be consecutive.
-A connection can be: 
-Horizontal/
-Vertical/
-Diagonal
+A connection can be: horizontal or vertical or diagonal
